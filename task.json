@@ -1,64 +1,64 @@
 {
     "users": [
       {
-        "userTitle": 1,
-        "Title": 18,
+        "userid": 1,
+        "title": 18,
         "id": "Gertrudis Tatterton",
-        "Completed": "yes"
+        "completed": "yes"
       },
       {
-        "userTitle": 2,
-        "Title": "Gail Newbatt",
+        "userid": 2,
+        "title": "Gail Newbatt",
         "id": 53,
-        "Completed": "no"
+        "completed": "no"
       },
       {
-        "userTitle": 3,
-        "Title": "Walliw Wilstead",
+        "userid": 3,
+        "title": "Walliw Wilstead",
         "id": 49,
-        "Completed": "yes"
+        "completed": "yes"
       },
       {
-        "userTitle": 4,
-        "Title": "Abran Proback",
+        "userid": 4,
+        "title": "Abran Proback",
         "id": 29,
-        "Completed": "no"
+        "completed": "no"
       },
       {
-        "userTitle": 5,
-        "Title": "Roda Chappelow",
+        "userid": 5,
+        "title": "Roda Chappelow",
         "id": 31,
-        "Completed": "yes"
+        "completed": "yes"
       },
       {
-        "userTitle": 6,
-        "Title": "Karney Wylie",
+        "userid": 6,
+        "title": "Karney Wylie",
         "id": 22,
-        "Completed": "no"
+        "completed": "no"
       },
       {
-        "userTitle": 7,
-        "Title": "Cammi Pimbley",
+        "userid": 7,
+        "title": "Cammi Pimbley",
         "id": 63,
-        "Completed": "yes"
+        "completed": "yes"
       },
       {
-        "userTitle": 8,
-        "Title": "Gavra Manning",
+        "userid": 8,
+        "title": "Gavra Manning",
         "id": 43,
-        "Completed": "no"
+        "completed": "no"
       },
       {
-        "userTitle": 9,
-        "Title": "Zachary Seward",
+        "userid": 9,
+        "title": "Zachary Seward",
         "id": 45,
-        "Completed": "yes"
+        "completed": "yes"
       },
       {
-        "userTitle": 10,
-        "Title": "Chucho Norssister",
+        "userid": 10,
+        "title": "Chucho Norssister",
         "id": 20,
-        "Completed": "no"
+        "completed": "no"
       }
     ]
   }
